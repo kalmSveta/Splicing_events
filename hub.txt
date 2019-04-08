@@ -1,0 +1,5 @@
+hub Splicing events
+shortLabel splice_events
+longLabel Alternative splicing in tumor 
+genomesFile genomes.txt
+email svetlana.kalmykova@skoltech.ru
