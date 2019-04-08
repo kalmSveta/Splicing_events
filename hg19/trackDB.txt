@@ -1,0 +1,30 @@
+track kidney_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl kidney_site_track.bb
+shortLabel kidney_site
+longLabel kidney_site
+
+
+track liver_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl liver_site_track.bb
+shortLabel liver_site
+longLabel liver_site
+
+
+track kidney_intron
+type bigBed 9 +
+itemRgb on
+bigDataUrl kidney_intron_track.bb
+shortLabel kidney_intron
+longLabel kidney_intron
+
+
+track liver_intron
+type bigBed 9 +
+itemRgb on
+bigDataUrl liver_intron_track.bb
+shortLabel liver_intron
+longLabel liver_intron
