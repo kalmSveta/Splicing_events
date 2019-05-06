@@ -1,30 +1,111 @@
-track kidney_site
+track ipsa_kidney_site
 type bigBed 9 +
 itemRgb on
-bigDataUrl kidney_site_track.bb
-shortLabel kidney_site
-longLabel kidney_site
+bigDataUrl ipsa_kidney_site.bb
+shortLabel ipsa_kidney_site
+longLabel ipsa_kidney_site
 
 
-track liver_site
+track ipsa_kidney_exon
 type bigBed 9 +
 itemRgb on
-bigDataUrl liver_site_track.bb
-shortLabel liver_site
-longLabel liver_site
+bigDataUrl ipsa_kidney_exon.bb
+shortLabel ipsa_kidney_exon
+longLabel ipsa_kidney_exon
 
 
-track kidney_intron
+track ipsa_kidney_intron
 type bigBed 9 +
 itemRgb on
-bigDataUrl kidney_intron_track.bb
-shortLabel kidney_intron
-longLabel kidney_intron
+bigDataUrl ipsa_kidney_intron.bb
+shortLabel ipsa_kidney_intron
+longLabel ipsa_kidney_intron
 
 
-track liver_intron
+track ipsa_liver_site
 type bigBed 9 +
 itemRgb on
-bigDataUrl liver_intron_track.bb
-shortLabel liver_intron
-longLabel liver_intron
+bigDataUrl ipsa_liver_site.bb
+shortLabel ipsa_liver_site
+longLabel ipsa_liver_site
+
+
+track ipsa_liver_exon
+type bigBed 9 +
+itemRgb on
+bigDataUrl ipsa_liver_exon.bb
+shortLabel ipsa_liver_exon
+longLabel ipsa_liver_exon
+
+
+track ipsa_liver_intron
+type bigBed 9 +
+itemRgb on
+bigDataUrl ipsa_liver_intron.bb
+shortLabel ipsa_liver_intron
+longLabel ipsa_liver_intron
+
+
+track spladder_kidney_3prime_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_kidney_3prime_site.bb
+shortLabel spladder_kidney_3prime_site
+longLabel spladder_kidney_3prime_site
+
+
+track spladder_kidney_5prime_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_kidney_5prime_site.bb
+shortLabel spladder_kidney_5prime_site
+longLabel spladder_kidney_5prime_site
+
+
+track spladder_kidney_exon
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_kidney_exon.bb
+shortLabel spladder_kidney_exon
+longLabel spladder_kidney_exon
+
+
+track spladder_kidney_intron
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_kidney_intron.bb
+shortLabel spladder_kidney_intron
+longLabel spladder_kidney_intron
+
+
+track spladder_liver_3prime_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_liver_3prime_site.bb
+shortLabel spladder_liver_3prime_site
+longLabel spladder_liver_3prime_site
+
+
+track spladder_liver_5prime_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_liver_5prime_site.bb
+shortLabel spladder_liver_5prime_site
+longLabel spladder_liver_5prime_site
+
+
+track spladder_liver_exon
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_liver_exon.bb
+shortLabel spladder_liver_exon
+longLabel spladder_liver_exon
+
+
+track spladder_liver_intron
+type bigBed 9 +
+itemRgb on
+bigDataUrl spladder_liver_intron.bb
+shortLabel spladder_liver_intron
+longLabel spladder_liver_intron
+
